@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!...ci from jenkins with maven tool</h2>
+<h2>Hello World!...ci from jenkins with maven tool..dummy job</h2>
 </body>
 </html>
